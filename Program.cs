@@ -8,8 +8,8 @@ namespace git_pro
         {
             Console.WriteLine("Hello World!");
             Student child=new Student();
-            child.FirstName("ola");
-            child.LastName("abukhader");
+            child.FirstName="ola";
+            child.LastName="abukhader";
 
         }
     }
